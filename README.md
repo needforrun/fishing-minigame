@@ -2,7 +2,7 @@
 
 https://github.com/user-attachments/assets/62975187-4a85-49f1-a937-90b8dbb3a34b
 
-A minimal recreation of [Fisch](https://www.roblox.com/games/16732694052). This project explores an approach to Roblox games using [reactive signals](https://github.com/littensy/charm/tree/alien-signals) for game state on the server and client.
+A recreation of [Fisch](https://www.roblox.com/games/16732694052) using [reactive signals](https://github.com/littensy/charm/tree/alien-signals) for game state.
 
 [Play the game →](https://www.roblox.com/games/93337472103359)
 
@@ -12,8 +12,6 @@ A minimal recreation of [Fisch](https://www.roblox.com/games/16732694052). This 
 - Server resimulates player inputs to validate catches
 - Game state is managed with [Charm](https://github.com/littensy/charm/tree/alien-signals)
 - Declarative UI rendering with [Vide](https://centau.github.io/vide)
-- Server state is synced to clients via remote event
-- Supports mobile and desktop
 
 ## Gameplay
 
