@@ -1,5 +1,7 @@
 # fishing-minigame
 
+https://github.com/user-attachments/assets/62975187-4a85-49f1-a937-90b8dbb3a34b
+
 A minimal recreation of [Fisch](https://www.roblox.com/games/16732694052). This project explores an approach to Roblox games using [reactive signals](https://github.com/littensy/charm/tree/alien-signals) for game state on the server and client.
 
 [Play the game →](https://www.roblox.com/games/93337472103359)
